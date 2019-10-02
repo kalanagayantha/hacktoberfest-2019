@@ -1,1 +1,2 @@
-print(42 + 8 * 5)
+a = input()
+print(a + 8 * 5)
