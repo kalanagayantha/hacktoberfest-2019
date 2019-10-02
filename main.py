@@ -1,3 +1,8 @@
 x = 5
 y = 10
-y > x * x or y >= 2 * x and x < y
+if (x < 3) 
+{
+        print("x<3")
+    elif 
+        print("x>3")
+}
