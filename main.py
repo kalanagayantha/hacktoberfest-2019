@@ -1,2 +1,2 @@
-a = 42
+a = input()
 print(a + 8 * 5)
