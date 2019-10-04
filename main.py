@@ -1,8 +1,8 @@
-x = 5
-y = 10
-if (x < 3) 
-{
-        print("x<3")
-    elif 
-        print("x>3")
-}
+i = 0
+while i < 5:
+    print('*')
+    if i % 2 == 0:
+        print('**')
+    if i > 2:
+        print('***')
+    i = i + 1
